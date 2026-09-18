@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Mastermind Trivia"
+
+  navbar:
+    background: primary
+    reader-mode: true
+    search: true
+  
+    repo-url: https://github.com/NoahBolohan/Mastermind-Trivia-2026-10-4
+    repo-actions: [edit, issue]
+
+    tools:
+      - icon: github
+        menu:
+          - text: Source Code
+            url:  https://github.com/NoahBolohan/Mastermind-Trivia-2026-10-4
+          - text: Report a Bug
+            url:  https://github.com/NoahBolohan/Mastermind-Trivia-2026-10-4/issues
+
+    left:
+      - text: Secret
+        file: index.qmd
+    
+page-footer:  
+  - icon: github
+    href: https://github.com/NoahBolohan
+
+lang: en
+
+format:
+  html:
+    theme: 
+      light: solarized
+      dark: darkly
+    # css: styles.css
+    toc: true
+    # grid:
+    #   sidebar-width: 0px
+    #   body-width: 1200px
+    #   margin-width: 300px
+    #   gutter-width: 1.5rem

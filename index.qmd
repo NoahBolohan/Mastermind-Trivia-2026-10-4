@@ -1,0 +1,532 @@
+---
+title: "Mastermind Trivia"
+format:
+  revealjs:
+    transition: slide
+    background-transition: fade
+    theme: solarized
+    incremental: true
+css: styles.css
+---
+
+# About this quiz
+
+These questions will start easy and get harder--so watch out! Everyone will play against the mastermind on their given topic.
+
+## About the questions {.smaller}
+
+Below are the types of questions you'll see:
+
+1. Multiple-choice
+    - the easiest question to get yourself situated
+2. Open
+    - it gets a little harder when you don't have options anymore
+3. Ranking
+    - we'll give you a ranking of things, you have to insert the provided thing where it belongs
+
+---
+
+## About the questions, cont'd {.smaller}
+
+4. Sound-bite
+    - I'll play a sound clip and you'll have to answer the question related to it
+5. Range
+    - unlike the other questions so far, whoever is closest will get this point
+6. Who/What am I?
+    - you'll get 3 clues, if you can get the person/object on the first clue that'll be worth 3 points, 2 for the second clue, and 1 for the last clue--pending you get the right answer
+
+## About the scoring
+
+We'll calculate the differentials between the mastermind and the rest of the team--whoever has the highest differential wins the crown: the bae of data.
+
+However, if there is a tie I have some volleyball trivia questions to break it.
+
+
+# Name: Emily {.content-background background-image="./static/disney_princesses_background.jpg" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+
+## Question 1
+
+::: footer
+Emily - Disney Princesses
+:::
+
+Who is **not** a Disney Princess?
+
+:::{.incremental}
+a. Pocahontas
+b. Esmerelda
+c. Jasmine
+d. Tiana
+:::
+
+## Question 2
+
+::: footer
+Emily - Disney Princesses
+:::
+
+Although the Disney Princesses appear together in marketing advertisements, what rule do they follow in order to "ensure the sanctity of ... their individual 'mythologies'"?
+
+## Question 3
+
+::: footer
+Emily - Disney Princesses
+:::
+
+The following is the order in which these Disney Princesses films have been selected for preservation in the National Film Registry by the Library of Congress.
+
+a. Snow White and the Seven Dwarves
+b. Cinderella
+c. Sleeping Beauty
+d. The Little Mermaid
+
+Place the following Disney Princess film in this order:
+
+:::{.incremental}
+e. Beauty and the Beast
+:::
+
+## Question 4
+
+::: footer
+Emily - Disney Princesses
+:::
+
+Sound-byte
+
+## Question 5
+
+::: footer
+Emily - Disney Princesses
+:::
+
+How many Disney Princess films have been released?
+
+## Question 6
+
+::: footer
+Emily - Disney Princesses
+:::
+
+Who/what am I?
+
+::: {.incremental}
+- Actress Margaret Kerry served as the live-action reference for the my design.
+- I was honored with a star on the Hollywood Walk of Fame in 2010.
+- I have not technically been a Disney Princess since 2005, when I was reassigned to the new Disney Fairies franchise.
+:::
+
+## Answer 1
+
+::: footer
+Emily - Disney Princesses
+:::
+
+Who is **not** a Disney Princess?
+
+:::{.incremental}
+- **b. Esmerelda**
+:::
+
+## Answer 2
+
+::: footer
+Emily - Disney Princesses
+:::
+
+Although the Disney Princesses appear together in marketing advertisements, what rule do they follow in order to "ensure the sanctity of .. their individual 'mythologies'"?
+
+:::{.incremental}
+- **Each stares off in a slightly different direction as if unaware of the other's presence.**
+:::
+
+## Answer 3
+
+::: footer
+Emily - Disney Princesses
+:::
+
+The following is the order in which these Disney Princesses films have been selected for preservation in the National Film Registry by the Library of Congress for being "culturally, historically, or aesthetically significant".
+
+a. Snow White and the Seven Dwarves (1989)
+e. **Beauty and the Beast (2002)**
+b. Cinderella (2018)
+c. Sleeping Beauty (2019)
+d. The Little Mermaid (2022)
+
+
+## Answer 4
+
+::: footer
+Emily - Disney Princesses
+:::
+
+Sound-byte
+
+:::{.incremental}
+- **Answer**
+:::
+
+## Answer 5
+
+::: footer
+Emily - Disney Princesses
+:::
+
+How many Disney Princess films have been released?
+
+:::{.incremental}
+- **37 (14 theatrical, 12 direct-to-video, 2 shorts, and 9 live-action films)**
+:::
+
+## Answer 6
+
+::: footer
+Emily - Disney Princesses
+:::
+
+Who/what am I?
+
+::: {.nonincremental}
+- Actress Margaret Kerry served as the live-action reference for the my design.
+- I was honored with a star on the Hollywood Walk of Fame in 2010.
+- I have not technically been a Disney Princess since 2005, when I was reassigned to the new Disney Fairies franchise.
+:::
+
+<br>
+
+:::{.incremental}
+- **Tinker Bell**
+:::
+
+# Name: Marc {.content-background background-image="./static/general_internet_lore_background.png" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+
+<!-- Ideas:
+
+Will It Blend?
+Annoyig orange
+tete a claques
+shamwow
+nyan cat
+fred
+qwop
+chaim mail
+eternal september
+Corrupted Blood pandemic
+y2k
+virus, worm, Creeper, Reaper
+the dress
+The Onion -->
+
+## Question 1
+
+::: footer
+Marc - General Internet Lore
+:::
+
+Which of these virtual world games are still active today?
+
+:::{.incremental}
+a. Toontown
+b. Hello Kitty Online
+c. Habbo Hotel
+d. Club Penguin
+:::
+
+## Question 2
+
+::: footer
+Marc - General Internet Lore
+:::
+
+What are 'Creeper' and 'Reaper'?
+
+<!-- What is the name of the Windows XP background below? -->
+
+## Question 3
+
+::: footer
+Marc - General Internet Lore
+:::
+
+The following are animated web series sorted by chronological order of release.
+
+a. Happy Tree Friends
+b. Salad Fingers
+c. Charlie the Unicorn
+d. Animator vs. Animation
+
+Place the following animated web series in it's correct position:
+
+:::{.incremental}
+e. Potter Puppet Pals
+:::
+
+## Question 4
+
+::: footer
+Marc - General Internet Lore
+:::
+
+Sound-byte
+
+## Question 5
+
+::: footer
+Marc - General Internet Lore
+:::
+
+On which date was the first YouTube video posted?
+
+## Question 6
+
+::: footer
+Marc - General Internet Lore
+:::
+
+Who/what am I?
+
+::: {.incremental}
+- The first recorded mention of me is in the year 1985 on a Usenet post by Spencer Bolles, although I've been eluded to as early as 1958.
+- Bill Clinton labelled me as "the first challenge of the 21st century successfully met".
+- Other names for me are CDC (Century Date Change) or FADL (Faulty Date Logic).
+:::
+
+## Answer 1
+
+::: footer
+Marc - General Internet Lore
+:::
+
+Which of these virtual world games are still active today?
+
+:::{.incremental}
+- **c. Habbo Hotel**
+:::
+
+## Answer 2
+
+::: footer
+Marc - General Internet Lore
+:::
+
+What are 'Creeper' and 'Reaper'?
+
+:::{.incremental}
+- **Creeper: first self-replicating computer worm**
+- **Reaper: (widely considered) first antivirus software, made to hunt and delete Creeper**
+:::
+
+## Answer 3
+
+::: footer
+Marc - General Internet Lore
+:::
+
+The following are animated web series sorted by chronological order of release.
+
+a. Happy Tree Friends (Dec. 2000)
+e. **Potter Puppet Pals (Sep. 27, 2003)**
+b. Salad Fingers (Jul. 1, 2004)
+c. Charlie the Unicorn (Nov. 26, 2005)
+d. Animator vs. Animation (Jun. 3, 2006)
+
+## Answer 4
+
+::: footer
+Marc - General Internet Lore
+:::
+
+Sound-byte
+
+:::{.incremental}
+- **Answer**
+:::
+
+## Answer 5
+
+::: footer
+Marc - General Internet Lore
+:::
+
+On which date was the first YouTube video posted?
+
+:::{.incremental}
+- **April 23rd, 2005**
+:::
+
+## Answer 6
+
+::: footer
+Marc - General Internet Lore
+:::
+
+Who/what am I?
+
+::: {.nonincremental}
+- The first recorded mention of me is in the year 1985 on a Usenet post by Spencer Bolles, although I've been eluded to as early as 1958.
+- Bill Clinton labelled me as "the first challenge of the 21st century successfully met".
+- Other names for me are CDC (Century Date Change) or FADL (Faulty Date Logic).
+:::
+
+<br>
+
+:::{.incremental}
+- **Y2K**
+:::
+
+<!-- # Name: Topic {.content-background background-image="./static/yacht_rock_background.jpg" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+
+## Question 1
+
+::: footer
+Name - Topic
+:::
+
+Multiple-choice question
+
+:::{.incremental}
+a. Option 1
+b. Option 2
+c. Option 3
+d. Option 4
+:::
+
+## Question 2
+
+::: footer
+Name - Topic
+:::
+
+Open question
+
+## Question 3
+
+::: footer
+Name - Topic
+:::
+
+Here is a ranking:
+
+a. Option 1
+b. Option 2
+c. Option 3
+d. Option 4
+
+Place the following in it's correct position:
+
+:::{.incremental}
+Option 5
+:::
+
+## Question 4
+
+::: footer
+Name - Topic
+:::
+
+Sound-byte
+
+## Question 5
+
+::: footer
+Name - Topic
+:::
+
+Closest number question
+
+## Question 6
+
+::: footer
+Name - Topic
+:::
+
+Who/what am I?
+
+::: {.incremental}
+- Fact 1
+- Fact 2
+- Fact 3
+:::
+
+## Answer 1
+
+::: footer
+Name - Topic
+:::
+
+Multiple-choice question
+
+:::{.incremental}
+- **a. Option X**
+:::
+
+## Answer 2
+
+::: footer
+Name - Topic
+:::
+
+Open question
+
+:::{.incremental}
+- **Answer**
+:::
+
+## Answer 3
+
+::: footer
+Name - Topic
+:::
+
+List these guests in chronological order of appearance.
+
+d. **Option v**
+a. **Option w**
+c. **Option x**
+e. **Option y**
+b. **Option z**
+
+## Answer 4
+
+::: footer
+Name - Topic
+:::
+
+Sound-byte
+
+:::{.incremental}
+- **Answer**
+:::
+
+## Answer 5
+
+::: footer
+Name - Topic
+:::
+
+Closest number question
+
+:::{.incremental}
+- **Answer**
+:::
+
+## Answer 6
+
+::: footer
+Name - Topic
+:::
+
+Who/what am I?
+
+:::{.nonincremental}
+- Fact 1
+- Fact 2
+- Fact 3
+:::
+
+<br>
+
+:::{.incremental}
+- **Answer**
+::: -->
