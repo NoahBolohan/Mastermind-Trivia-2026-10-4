@@ -42,7 +42,7 @@ We'll calculate the differentials between the mastermind and the rest of the tea
 However, if there is a tie I have some volleyball trivia questions to break it.
 
 
-# Name: Emily {.content-background background-image="./static/disney_princesses_background.jpg" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+# Emily - Disney Princesses {.content-background background-image="./static/disney_princesses_background.jpg" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
 
 ## Question 1
 
@@ -119,9 +119,9 @@ Emily - Disney Princesses
 Who/what am I?
 
 ::: {.incremental}
-- Actress Margaret Kerry served as the live-action reference for the my design.
-- I was honored with a star on the Hollywood Walk of Fame in 2010.
-- I have not technically been a Disney Princess since 2005, when I was reassigned to the new Disney Fairies franchise.
+- Actress Margaret Kerry served as the live-action reference for the my design. (3 points)
+- I was honored with a star on the Hollywood Walk of Fame in 2010. (2 points)
+- I have not technically been a Disney Princess since 2005, when I was reassigned to the new Disney Fairies franchise. (1 point)
 :::
 
 ## Answer 1
@@ -204,9 +204,9 @@ Emily - Disney Princesses
 Who/what am I?
 
 ::: {.nonincremental}
-- Actress Margaret Kerry served as the live-action reference for the my design.
-- I was honored with a star on the Hollywood Walk of Fame in 2010.
-- I have not technically been a Disney Princess since 2005, when I was reassigned to the new Disney Fairies franchise.
+- Actress Margaret Kerry served as the live-action reference for the my design. (3 points)
+- I was honored with a star on the Hollywood Walk of Fame in 2010. (2 points)
+- I have not technically been a Disney Princess since 2005, when I was reassigned to the new Disney Fairies franchise. (1 point)
 :::
 
 <br>
@@ -215,7 +215,7 @@ Who/what am I?
 - **Tinker Bell**
 :::
 
-# Name: Marc {.content-background background-image="./static/general_internet_lore_background.png" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+# Marc - General Internet Lore {.content-background background-image="./static/general_internet_lore_background.webp" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
 
 <!-- Ideas:
 
@@ -284,7 +284,15 @@ e. Potter Puppet Pals
 Marc - General Internet Lore
 :::
 
-Sound-byte
+Match each Windows version with the audio of their startup sound:
+(1) Windows 95 (2) Windows NT 5.0 (3) Windows 98 (4) Windows 2000
+
+::: {.incremental}
+a. Audio A
+b. Audio B
+c. Audio C
+d. Audio D
+:::
 
 ## Question 5
 
@@ -303,9 +311,9 @@ Marc - General Internet Lore
 Who/what am I?
 
 ::: {.incremental}
-- The first recorded mention of me is in the year 1985 on a Usenet post by Spencer Bolles, although I've been eluded to as early as 1958.
-- Bill Clinton labelled me as "the first challenge of the 21st century successfully met".
-- Other names for me are CDC (Century Date Change) or FADL (Faulty Date Logic).
+- The first recorded mention of me is in the year 1985 on a Usenet post by Spencer Bolles, although I've been eluded to as early as 1958. (3 points)
+- Other names for me are CDC or FADL. (2 points)
+- Bill Clinton labelled me as "the first challenge of the 21st century successfully met". (1 point)
 :::
 
 ## Answer 1
@@ -353,10 +361,18 @@ d. Animator vs. Animation (Jun. 3, 2006)
 Marc - General Internet Lore
 :::
 
-Sound-byte
+Match each Windows version with the audio of their startup sound:
+
+<!-- a. Audio A: Windows 2000: [(1:08-1:13)](https://youtu.be/reJbTyqa30Q?t=69)
+b. Audio B: Windows 98: [0:56-1:03](https://youtu.be/reJbTyqa30Q?t=56)
+c. Audio C: Windows 95: [(0:08-0:15)](https://youtu.be/reJbTyqa30Q?t=8)
+d. Audio D: Windows NT 5.0: [(0:37-0:51)](https://youtu.be/reJbTyqa30Q?t=37) -->
 
 :::{.incremental}
-- **Answer**
+1. Windows 95 - **Audio C**
+2. Windows NT 5.0 - **Audio D**
+3. Windows 98 - **Audio B**
+4. Windows 2000 - **Audio A**
 :::
 
 ## Answer 5
@@ -380,9 +396,9 @@ Marc - General Internet Lore
 Who/what am I?
 
 ::: {.nonincremental}
-- The first recorded mention of me is in the year 1985 on a Usenet post by Spencer Bolles, although I've been eluded to as early as 1958.
-- Bill Clinton labelled me as "the first challenge of the 21st century successfully met".
-- Other names for me are CDC (Century Date Change) or FADL (Faulty Date Logic).
+- The first recorded mention of me is in the year 1985 on a Usenet post by Spencer Bolles, although I've been eluded to as early as 1958. (3 points)
+- Other names for me are CDC or FADL. (2 points)
+- Bill Clinton labelled me as "the first challenge of the 21st century successfully met". (1 point)
 :::
 
 <br>
