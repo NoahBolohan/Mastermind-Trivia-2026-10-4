@@ -92,7 +92,15 @@ e. Beauty and the Beast
 Emily - Disney Princesses
 :::
 
-Sound-byte
+Match each Disney Princess with the audio of their outfits transforming or changing:
+(1) Mulan (2) Cinderlla (3) Aurora (4) Ariel
+
+::: {.incremental}
+a. Audio A
+b. Audio B
+c. Audio C
+d. Audio D
+:::
 
 ## Question 5
 
@@ -161,10 +169,18 @@ d. The Little Mermaid (2022)
 Emily - Disney Princesses
 :::
 
-Sound-byte
+Match each Disney Princess with the audio of their outfits transforming or changing:
+
+<!-- a. Audio A: Aurora: [(1:12-1:23)](https://youtu.be/8O5msIhtIt8?t=72)
+b. Audio B: Mulan: [1:58-2:18](https://youtu.be/8O5msIhtIt8?t=118)
+c. Audio C: Ariel: [(5:51-6:13)](https://youtu.be/8O5msIhtIt8?t=351)
+d. Audio D: Cinderlla: [(7:51-7:58)](https://youtu.be/8O5msIhtIt8?t=471) -->
 
 :::{.incremental}
-- **Answer**
+1. Mulan - **Audio B**
+2. Cinderlla - **Audio D**
+3. Aurora - **Audio A**
+4. Ariel - **Audio C**
 :::
 
 ## Answer 5
