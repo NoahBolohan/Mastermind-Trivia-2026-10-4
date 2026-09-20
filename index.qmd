@@ -215,24 +215,163 @@ Who/what am I?
 - **Tinker Bell**
 :::
 
+# Brittny - Next Gen NYC {.content-background background-image="./static/next_gen_nyc_background.jpg" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+
+## Question 1
+
+::: footer
+Brittny - Next Gen NYC
+:::
+
+Which of these Real Housewives installments does **not** feature a parent of any of the Next Gen NYC cast memers?
+
+:::{.incremental}
+a. Real Housewives of New Jersey
+b. Real Housewives of New York City
+c. Real Housewives of Salt Lake City
+d. Real Housewives of Atlanta
+:::
+
+## Question 2
+
+::: footer
+Brittny - Next Gen NYC
+:::
+
+Open question
+
+## Question 3
+
+::: footer
+Brittny - Next Gen NYC
+:::
+
+Here is a ranking:
+
+a. Option 1
+b. Option 2
+c. Option 3
+d. Option 4
+
+Place the following in it's correct position:
+
+:::{.incremental}
+Option 5
+:::
+
+## Question 4
+
+::: footer
+Brittny - Next Gen NYC
+:::
+
+Sound-byte
+
+## Question 5
+
+::: footer
+Brittny - Next Gen NYC
+:::
+
+Closest number question
+
+## Question 6
+
+::: footer
+Brittny - Next Gen NYC
+:::
+
+Who/what am I?
+
+::: {.incremental}
+- Fact 1
+- Fact 2
+- Fact 3
+:::
+
+## Answer 1
+
+::: footer
+Brittny - Next Gen NYC
+:::
+
+Multiple-choice question
+
+:::{.incremental}
+- **a. Option X**
+:::
+
+## Answer 2
+
+::: footer
+Brittny - Next Gen NYC
+:::
+
+Open question
+
+:::{.incremental}
+- **Answer**
+:::
+
+## Answer 3
+
+::: footer
+Brittny - Next Gen NYC
+:::
+
+List these guests in chronological order of appearance.
+
+d. **Option v**
+a. **Option w**
+c. **Option x**
+e. **Option y**
+b. **Option z**
+
+## Answer 4
+
+::: footer
+Brittny - Next Gen NYC
+:::
+
+Sound-byte
+
+:::{.incremental}
+- **Answer**
+:::
+
+## Answer 5
+
+::: footer
+Brittny - Next Gen NYC
+:::
+
+Closest number question
+
+:::{.incremental}
+- **Answer**
+:::
+
+## Answer 6
+
+::: footer
+Brittny - Next Gen NYC
+:::
+
+Who/what am I?
+
+:::{.nonincremental}
+- Fact 1
+- Fact 2
+- Fact 3
+:::
+
+<br>
+
+:::{.incremental}
+- **Answer**
+:::
+
 # Marc - General Internet Lore {.content-background background-image="./static/general_internet_lore_background.webp" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
-
-<!-- Ideas:
-
-Will It Blend?
-Annoyig orange
-tete a claques
-shamwow
-nyan cat
-fred
-qwop
-chaim mail
-eternal september
-Corrupted Blood pandemic
-y2k
-virus, worm, Creeper, Reaper
-the dress
-The Onion -->
 
 ## Question 1
 
