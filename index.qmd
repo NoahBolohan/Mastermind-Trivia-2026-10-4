@@ -177,10 +177,10 @@ c. Audio C: Ariel: [(5:51-6:13)](https://youtu.be/8O5msIhtIt8?t=351)
 d. Audio D: Cinderlla: [(7:51-7:58)](https://youtu.be/8O5msIhtIt8?t=471) -->
 
 :::{.incremental}
-1. Mulan - **Audio B**
-2. Cinderlla - **Audio D**
-3. Aurora - **Audio A**
-4. Ariel - **Audio C**
+a. Audio A - **Aurora**
+b. Audio B - **Mulan**
+c. Audio C - **Ariel**
+d. Audio D - **Cinderlla**
 :::
 
 ## Answer 5
@@ -223,7 +223,7 @@ Who/what am I?
 Brittny - Next Gen NYC
 :::
 
-Which of these Real Housewives installments does **not** feature a parent of any of the Next Gen NYC cast memers?
+Which of these Real Housewives installments does **not** feature a parent of any of the Next Gen NYC cast members?
 
 :::{.incremental}
 a. Real Housewives of New Jersey
@@ -238,7 +238,7 @@ d. Real Housewives of Atlanta
 Brittny - Next Gen NYC
 :::
 
-Open question
+What is the name of the fast food chain founded by Hudson McLeroy's father?
 
 ## Question 3
 
@@ -246,17 +246,17 @@ Open question
 Brittny - Next Gen NYC
 :::
 
-Here is a ranking:
+Here are some of the main cast members with their number of IG followers as of September 30th, 2026.
 
-a. Option 1
-b. Option 2
-c. Option 3
-d. Option 4
+a. Emira D'Spain - 438K
+b. Ava Dash - 153K
+c. Liam Obergfoll - 50.1K
+d. Georgia McCann - 39.2K
 
-Place the following in it's correct position:
+Place the following cast member in their correct position:
 
 :::{.incremental}
-Option 5
+e. Brooks Marks
 :::
 
 ## Question 4
@@ -265,7 +265,9 @@ Option 5
 Brittny - Next Gen NYC
 :::
 
-Sound-byte
+Who is singing this song?
+
+<!-- https://www.youtube.com/watch?v=kUONWrJ3wLk -->
 
 ## Question 5
 
@@ -273,7 +275,7 @@ Sound-byte
 Brittny - Next Gen NYC
 :::
 
-Closest number question
+In how many episodes of the Nickelodeon T.V. show *Every Witch Way* did Next Gen NYC cast member Liam Obergfoll appear?
 
 ## Question 6
 
@@ -284,9 +286,9 @@ Brittny - Next Gen NYC
 Who/what am I?
 
 ::: {.incremental}
-- Fact 1
-- Fact 2
-- Fact 3
+- I was founded in 1832 by Albert Gallatin as a non-sectarian all-male institution.
+- Bethenny Frankel was offered an internship at SNL during her studies here.
+- I am the alma mater of the Next Gen NYC cast members Riley Buress, Emira D'Spain, Brooks Marks and Georgia McCann, as well as others including JFK Jr., Suzanne Collins, Anne Hathaway and Ross Geller.
 :::
 
 ## Answer 1
@@ -295,10 +297,10 @@ Who/what am I?
 Brittny - Next Gen NYC
 :::
 
-Multiple-choice question
+Which of these Real Housewives installments does **not** feature a parent of any of the Next Gen NYC cast members?
 
 :::{.incremental}
-- **a. Option X**
+- **b. Real Housewives of New York City**
 :::
 
 ## Answer 2
@@ -307,10 +309,10 @@ Multiple-choice question
 Brittny - Next Gen NYC
 :::
 
-Open question
+What is the name of the fast food chain founded by Hudson McLeroy's father?
 
 :::{.incremental}
-- **Answer**
+- **Zaxby's**
 :::
 
 ## Answer 3
@@ -319,13 +321,13 @@ Open question
 Brittny - Next Gen NYC
 :::
 
-List these guests in chronological order of appearance.
+Here are some of the main cast members with their number of IG followers as of September 30th, 2026.
 
-d. **Option v**
-a. **Option w**
-c. **Option x**
-e. **Option y**
-b. **Option z**
+a. Emira D'Spain - 438K
+b. Ava Dash - 153K
+e. **Brooks Marks - 122K**
+c. Liam Obergfoll - 50.1K
+d. Georgia McCann - 39.2K
 
 ## Answer 4
 
@@ -333,10 +335,12 @@ b. **Option z**
 Brittny - Next Gen NYC
 :::
 
-Sound-byte
+Who is singing this song?
+
+<!-- https://www.youtube.com/watch?v=kUONWrJ3wLk -->
 
 :::{.incremental}
-- **Answer**
+- **Gia Giudice**
 :::
 
 ## Answer 5
@@ -345,10 +349,10 @@ Sound-byte
 Brittny - Next Gen NYC
 :::
 
-Closest number question
+In how many episodes of the Nickelodeon T.V. show *Every Witch Way* did Next Gen NYC cast member Liam Obergfoll appear?
 
 :::{.incremental}
-- **Answer**
+- **10**
 :::
 
 ## Answer 6
@@ -360,15 +364,21 @@ Brittny - Next Gen NYC
 Who/what am I?
 
 :::{.nonincremental}
-- Fact 1
-- Fact 2
-- Fact 3
+- I was founded in 1832 by Albert Gallatin as a non-sectarian all-male institution.
+- Bethenny Frankel was offered an internship at SNL during her studies here.
+- I am the alma mater of the Next Gen NYC cast members Riley Buress, Emira D'Spain, Brooks Marks and Georgia McCann, as well as others including JFK Jr., Suzanne Collins, Anne Hathaway and Ross Geller.
 :::
 
-<br>
+## Answer 6 - Cont.
+
+::: footer
+Brittny - Next Gen NYC
+:::
+
+Who/what am I?
 
 :::{.incremental}
-- **Answer**
+- **New York University**
 :::
 
 # Marc - General Internet Lore {.content-background background-image="./static/general_internet_lore_background.webp" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
@@ -508,10 +518,10 @@ c. Audio C: Windows 95: [(0:08-0:15)](https://youtu.be/reJbTyqa30Q?t=8)
 d. Audio D: Windows NT 5.0: [(0:37-0:51)](https://youtu.be/reJbTyqa30Q?t=37) -->
 
 :::{.incremental}
-1. Windows 95 - **Audio C**
-2. Windows NT 5.0 - **Audio D**
-3. Windows 98 - **Audio B**
-4. Windows 2000 - **Audio A**
+a. Audio A - **Windows 2000**
+b. Audio B - **Windows 98**
+c. Audio C - **Windows 95**
+d. Audio D - **Windows NT 5.0**
 :::
 
 ## Answer 5
