@@ -177,10 +177,10 @@ c. Audio C: Ariel: [(5:51-6:13)](https://youtu.be/8O5msIhtIt8?t=351)
 d. Audio D: Cinderlla: [(7:51-7:58)](https://youtu.be/8O5msIhtIt8?t=471) -->
 
 :::{.incremental}
-a. Audio A - **Aurora**
-b. Audio B - **Mulan**
-c. Audio C - **Ariel**
-d. Audio D - **Cinderlla**
+a. Audio A - **3. Aurora**
+b. Audio B - **1. Mulan**
+c. Audio C - **4. Ariel**
+d. Audio D - **2. Cinderlla**
 :::
 
 ## Answer 5
@@ -518,10 +518,10 @@ c. Audio C: Windows 95: [(0:08-0:15)](https://youtu.be/reJbTyqa30Q?t=8)
 d. Audio D: Windows NT 5.0: [(0:37-0:51)](https://youtu.be/reJbTyqa30Q?t=37) -->
 
 :::{.incremental}
-a. Audio A - **Windows 2000**
-b. Audio B - **Windows 98**
-c. Audio C - **Windows 95**
-d. Audio D - **Windows NT 5.0**
+a. Audio A - **4. Windows 2000**
+b. Audio B - **3. Windows 98**
+c. Audio C - **1. Windows 95**
+d. Audio D - **2. Windows NT 5.0**
 :::
 
 ## Answer 5
@@ -555,6 +555,76 @@ Who/what am I?
 :::{.incremental}
 - **Y2K**
 :::
+
+# Tiebreaker: Garment Sewing {.content-background background-image="./static/garment_sewing_background.jpeg" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+
+## Question 1
+
+::: footer
+Tiebreaker: Garment Sewing
+:::
+
+Which of these is not a common pattern adjustment?
+
+:::{.incremental}
+a. Scoop the crotch
+b. Ease in the curve
+c. Slash and spread
+d. Swayback adjustment
+:::
+
+## Question 2
+
+::: footer
+Tiebreaker: Garment Sewing
+:::
+
+You may open a tin of cookies only to find that they are full of sewing supplies. From which country do these cookies originate?
+
+## Question 3
+
+::: footer
+Tiebreaker: Garment Sewing
+:::
+
+What is the typical GSM (Grams per Square Meter) cutoff for a fabric to be considered heavyweight?
+
+## Answer 1
+
+::: footer
+Tiebreaker: Garment Sewing
+:::
+
+Which of these is not a common pattern adjustment?
+
+:::{.incremental}
+- **b. Ease in the curve**
+:::
+
+## Answer 2
+
+::: footer
+Tiebreaker: Garment Sewing
+:::
+
+You may open a tin of cookies only to find that they are full of sewing supplies. From which country do these cookies originate?
+
+:::{.incremental}
+- **Denmark**
+:::
+
+## Answer 3
+
+::: footer
+Tiebreaker: Garment Sewing
+:::
+
+What is the typical GSM (Grams per Square Meter) cutoff for a fabric to be considered heavyweight?
+
+:::{.incremental}
+- **400 GSM**
+:::
+
 
 <!-- # Name: Topic {.content-background background-image="./static/yacht_rock_background.jpg" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
 
